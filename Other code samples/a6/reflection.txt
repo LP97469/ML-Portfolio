@@ -1,0 +1,50 @@
+# Assignment 6 reflection
+
+## Submitter metadata
+
+Partner 1: Firstname Lastname (NetID)  - TODO
+Partner 2: Firstname Lastname (NetID)  - delete if working solo
+
+Hours spent working on this assignment: 0.0  - TODO
+
+## Verification questions
+
+Play a game of PacMann (on the default 10 x 10 board) by running "GraphicalApp.java".
+If you completed the assignment with a partner, both partners should independently 
+play the game and report on the following items:
+
+
+1. How many pellets (i.e., the big circles) did PacMann eat?
+
+   Answer: TODO
+
+2. During each of the FLEE sequences, how many ghosts did PacMann eat?
+
+   Answer: TODO
+
+3. What was your final score?
+
+   Answer: TODO
+
+## Reflection questions
+
+1. For TODO 1, briefly explain how you constructed your graph. Did you discover
+   the maze via a BFS/DFS search, or did you iterate directly over the tile grid
+   to locate edges? Why did you choose this approach?
+   
+   Answer: TODO
+
+2. In the original Pac-Man game, a piece of fruit appeared at a predetermined 
+   position on the board once Pac-Man had eaten 70 dots and remained on the screen 
+   for 9 seconds. Eating this fruit awarded the player a score bonus. Describe how 
+   you could add this feature to your PacMann game. Which files, fields, or methods 
+   would you need to edit / add? 
+
+   Answer: TODO
+
+(Answer RQ3 only if you completed the challenge extension, otherwise delete it.)
+
+3. In a couple of sentences, explain the strategy employed by your PacMannAI.
+
+   Answer: TODO
+
